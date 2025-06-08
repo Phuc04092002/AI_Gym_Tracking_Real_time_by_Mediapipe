@@ -1,1 +1,1 @@
-"# AI_Gym_Tracking_Real_time_by_Mediapipe" 
+"# AI_Gym_Classifier_Real_time_by_Mediapipe" 
